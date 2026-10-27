@@ -1,0 +1,5 @@
+method,n_pathway,ER_fdr05,ER_min_q,OS_fdr05
+moGSVA fused,285,173,3.09850344601761e-27,2
+Merge (equal mean),285,185,2.75964778440677e-27,1
+Merge (z-scored),285,199,4.96728343884771e-27,2
+Pooled baseline,285,135,6.3953222942514e-10,1

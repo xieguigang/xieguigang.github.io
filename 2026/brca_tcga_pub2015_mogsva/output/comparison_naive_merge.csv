@@ -1,0 +1,7 @@
+metric,moGSVA fused,Merge (equal mean),Merge (z-scored)
+mean |score|,0.095,0.102,0.503
+median pathway SD,0.115,0.115,0.615
+ER: pathways at FDR < 0.05,204,219,233
+ER: median |delta| of hits,0.058,0.071,0.362
+OS: pathways at FDR < 0.05,2,1,2
+layer attribution,yes (contribution share),no,no

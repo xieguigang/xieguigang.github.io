@@ -1,0 +1,461 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	ER_STATUS_BY_IHC	PR_STATUS_BY_IHC	IHC_HER2	HER2_FISH_STATUS	TMB_NONSYNONYMOUS	AGE	HISTOLOGICAL_DIAGNOSIS	AJCC_PATHOLOGIC_TUMOR_STAGE	OS_STATUS	OS_MONTHS	DFS_STATUS	DFS_MONTHS
+TCGA-A1-A0SF	TCGA-A1-A0SF-01	Primary	Positive	Positive	Negative	[Not Available]	1.266666667	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	48.06	0:DiseaseFree	48.06
+TCGA-A1-A0SH	TCGA-A1-A0SH-01	Primary	Negative	Positive	Equivocal	Negative	2.6	39	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	47.21	0:DiseaseFree	47.21
+TCGA-A1-A0SJ	TCGA-A1-A0SJ-01	Primary	Positive	Positive	Equivocal	Negative	1	39	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	13.67	0:DiseaseFree	13.67
+TCGA-A1-A0SK	TCGA-A1-A0SK-01	Primary	Negative	Negative	Negative	[Not Available]	3.366666667	54	Other, specify	Stage IIA	1:DECEASED	31.77	[Not Available]	[Not Available]
+TCGA-A1-A0SQ	TCGA-A1-A0SQ-01	Primary	Positive	Positive	Negative	[Not Available]	0.866666667	45	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.2	0:DiseaseFree	18.2
+TCGA-A2-A0CK	TCGA-A2-A0CK-01	Primary	Positive	Positive	Negative	Negative	0.466666667	60	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	136.63	1:Recurred/Progressed	44.81
+TCGA-A2-A0CR	TCGA-A2-A0CR-01	Primary	Positive	Positive	Negative	Negative	3.433333333	54	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	107.85	0:DiseaseFree	107.85
+TCGA-A2-A0CT	TCGA-A2-A0CT-01	Primary	Positive	Negative	Equivocal	Negative	2.033333333	71	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	75.2	0:DiseaseFree	75.2
+TCGA-A2-A0EP	TCGA-A2-A0EP-01	Primary	Positive	Negative	Negative	Negative	0.2	56	Infiltrating Lobular Carcinoma	Stage I	0:LIVING	118.36	0:DiseaseFree	118.36
+TCGA-A2-A0EU	TCGA-A2-A0EU-01	Primary	Positive	Positive	Negative	Negative	1.266666667	79	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	34.26	0:DiseaseFree	34.26
+TCGA-A2-A0ST	TCGA-A2-A0ST-01	Primary	Negative	Negative	[Not Available]	Negative	0.633333333	62	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	99.11	0:DiseaseFree	99.11
+TCGA-A2-A0SU	TCGA-A2-A0SU-01	Primary	Positive	Positive	Negative	[Not Available]	0.666666667	66	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	54.6	0:DiseaseFree	54.6
+TCGA-A2-A0SV	TCGA-A2-A0SV-01	Primary	Positive	Positive	Equivocal	Negative	0.966666667	63	Infiltrating Ductal Carcinoma	Stage IV	1:DECEASED	27.1	[Not Available]	[Not Available]
+TCGA-A2-A0SW	TCGA-A2-A0SW-01	Primary	Positive	Negative	[Not Available]	Negative	1.6	82	Infiltrating Ductal Carcinoma	Stage IV	1:DECEASED	44.84	1:Recurred/Progressed	21.45
+TCGA-A2-A0SX	TCGA-A2-A0SX-01	Primary	Negative	Negative	Negative	[Not Available]	0.8	48	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	50.39	1:Recurred/Progressed	40.7
+TCGA-A2-A0T0	TCGA-A2-A0T0-01	Primary	Negative	Negative	Negative	[Not Available]	4.8	59	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	17.51	0:DiseaseFree	17.51
+TCGA-A2-A0T1	TCGA-A2-A0T1-01	Primary	Negative	Negative	Positive	[Not Available]	0.5	55	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	17.12	0:DiseaseFree	17.12
+TCGA-A2-A0T2	TCGA-A2-A0T2-01	Primary	Negative	Negative	Negative	[Not Available]	1.466666667	66	Infiltrating Ductal Carcinoma	Stage IV	1:DECEASED	8.38	[Not Available]	[Not Available]
+TCGA-A2-A0T4	TCGA-A2-A0T4-01	Primary	Positive	Positive	Equivocal	Negative	0.966666667	62	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	20.5	0:DiseaseFree	20.5
+TCGA-A2-A0T5	TCGA-A2-A0T5-01	Primary	Positive	Positive	Negative	Negative	36.16666667	39	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	17.44	0:DiseaseFree	17.44
+TCGA-A2-A0T6	TCGA-A2-A0T6-01	Primary	Positive	Positive	Negative	[Not Available]	3.133333333	50	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	18.89	0:DiseaseFree	18.89
+TCGA-A2-A0T7	TCGA-A2-A0T7-01	Primary	Positive	Positive	Negative	[Not Available]	0.8	51	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	20.73	0:DiseaseFree	20.73
+TCGA-A2-A0YC	TCGA-A2-A0YC-01	Primary	Positive	Positive	[Not Available]	Negative	0.6	59	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	32.52	1:Recurred/Progressed	26.22
+TCGA-A2-A0YD	TCGA-A2-A0YD-01	Primary	Positive	Positive	[Not Available]	Negative	2.166666667	63	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	25.26	0:DiseaseFree	25.26
+TCGA-A2-A0YF	TCGA-A2-A0YF-01	Primary	Positive	Negative	Negative	[Not Available]	0.566666667	67	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	50.43	0:DiseaseFree	50.43
+TCGA-A2-A0YG	TCGA-A2-A0YG-01	Primary	Positive	Positive	Positive	[Not Available]	1.5	63	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	21.88	0:DiseaseFree	21.88
+TCGA-A2-A0YH	TCGA-A2-A0YH-01	Primary	Positive	Positive	Negative	[Not Available]	2.2	53	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	21.65	0:DiseaseFree	21.65
+TCGA-A2-A0YI	TCGA-A2-A0YI-01	Primary	Positive	Positive	Negative	[Not Available]	0.366666667	62	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	49.44	0:DiseaseFree	49.44
+TCGA-A2-A0YK	TCGA-A2-A0YK-01	Primary	Positive	Negative	Negative	[Not Available]	6.966666667	61	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	19.32	0:DiseaseFree	19.32
+TCGA-A2-A0YL	TCGA-A2-A0YL-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	48	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	48.42	0:DiseaseFree	48.42
+TCGA-A2-A0YM	TCGA-A2-A0YM-01	Primary	Negative	Negative	[Not Available]	Negative	2.2	67	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	31.7	0:DiseaseFree	31.7
+TCGA-A2-A0YT	TCGA-A2-A0YT-01	Primary	Positive	Negative	[Not Available]	Negative	1.5	56	Infiltrating Ductal Carcinoma	Stage IIIB	1:DECEASED	23.75	[Not Available]	[Not Available]
+TCGA-A2-A1FV	TCGA-A2-A1FV-01	Primary	Positive	Positive	Negative	Negative	1.333333333	74	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	23.46	0:DiseaseFree	23.46
+TCGA-A2-A1FW	TCGA-A2-A1FW-01	Primary	Positive	Negative	Negative	[Not Available]	2	62	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	17.35	0:DiseaseFree	17.35
+TCGA-A2-A1FX	TCGA-A2-A1FX-01	Primary	Positive	Positive	[Not Available]	Negative	0.7	61	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	60.68	0:DiseaseFree	60.68
+TCGA-A2-A1FZ	TCGA-A2-A1FZ-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	63	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	22.44	0:DiseaseFree	22.44
+TCGA-A2-A1G0	TCGA-A2-A1G0-01	Primary	Positive	Positive	Equivocal	Negative	0.9	49	Other, specify	Stage IIB	0:LIVING	20.24	0:DiseaseFree	20.24
+TCGA-A2-A1G1	TCGA-A2-A1G1-01	Primary	Negative	Negative	Equivocal	Positive	0.933333333	85	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	19.19	0:DiseaseFree	19.19
+TCGA-A2-A1G4	TCGA-A2-A1G4-01	Primary	Positive	Positive	Negative	[Not Available]	1.366666667	71	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	19.55	0:DiseaseFree	19.55
+TCGA-A2-A1G6	TCGA-A2-A1G6-01	Primary	Negative	Negative	Negative	[Not Available]	0.133333333	50	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	16.46	0:DiseaseFree	16.46
+TCGA-A2-A259	TCGA-A2-A259-01	Primary	Positive	Positive	Negative	Negative	0.566666667	70	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	52.43	0:DiseaseFree	52.43
+TCGA-A2-A25A	TCGA-A2-A25A-01	Primary	Positive	Positive	Equivocal	Negative	3.4	44	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	107.62	0:DiseaseFree	107.62
+TCGA-A2-A25B	TCGA-A2-A25B-01	Primary	Positive	Positive	Equivocal	Negative	2.366666667	39	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	42.41	1:Recurred/Progressed	42.38
+TCGA-A2-A25C	TCGA-A2-A25C-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	50	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	17.18	0:DiseaseFree	17.18
+TCGA-A2-A25D	TCGA-A2-A25D-01	Primary	Positive	Negative	Negative	Negative	1.433333333	90	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	18.13	0:DiseaseFree	18.13
+TCGA-A2-A25E	TCGA-A2-A25E-01	Primary	Positive	Positive	Equivocal	Equivocal	1.866666667	34	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	105.26	1:Recurred/Progressed	98.19
+TCGA-A2-A25F	TCGA-A2-A25F-01	Primary	Negative	Positive	Negative	[Not Available]	0.5	66	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	10.58	0:DiseaseFree	10.58
+TCGA-A2-A3KC	TCGA-A2-A3KC-01	Primary	Positive	Positive	Equivocal	Negative	0.766666667	55	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	36.2	0:DiseaseFree	36.2
+TCGA-A2-A3KD	TCGA-A2-A3KD-01	Primary	Positive	Positive	Negative	Negative	0.266666667	47	Mucinous Carcinoma	Stage IIIA	0:LIVING	39.62	0:DiseaseFree	39.62
+TCGA-A2-A3XT	TCGA-A2-A3XT-01	Primary	Negative	Negative	Negative	Negative	2.333333333	45	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	91	0:DiseaseFree	91
+TCGA-A2-A3XU	TCGA-A2-A3XU-01	Primary	Negative	Negative	[Not Available]	Negative	0.633333333	35	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	29.96	1:Recurred/Progressed	21.91
+TCGA-A2-A3XV	TCGA-A2-A3XV-01	Primary	Positive	Negative	Equivocal	Positive	1.366666667	46	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	32.72	0:DiseaseFree	32.72
+TCGA-A2-A3XW	TCGA-A2-A3XW-01	Primary	Positive	Negative	Negative	Negative	0.1	42	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	56.24	0:DiseaseFree	56.24
+TCGA-A2-A3XX	TCGA-A2-A3XX-01	Primary	Negative	Negative	Negative	Negative	1.133333333	49	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	47.27	[Not Available]	[Not Available]
+TCGA-A2-A3XZ	TCGA-A2-A3XZ-01	Primary	Negative	Negative	Positive	[Not Available]	1.233333333	46	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	50.33	0:DiseaseFree	50.33
+TCGA-A2-A4RW	TCGA-A2-A4RW-01	Primary	Positive	Positive	Negative	[Not Available]	3.233333333	49	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	7.29	0:DiseaseFree	7.29
+TCGA-A2-A4RX	TCGA-A2-A4RX-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	67	Metaplastic Carcinoma	Stage IIA	0:LIVING	24.38	0:DiseaseFree	24.38
+TCGA-A2-A4RY	TCGA-A2-A4RY-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	46	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	21.29	0:DiseaseFree	21.29
+TCGA-A2-A4S0	TCGA-A2-A4S0-01	Primary	Positive	Positive	Negative	[Not Available]	0.266666667	77	Mucinous Carcinoma	Stage IIA	0:LIVING	23.19	0:DiseaseFree	23.19
+TCGA-A2-A4S2	TCGA-A2-A4S2-01	Primary	Positive	Positive	Negative	[Not Available]	1.133333333	62	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	21.12	0:DiseaseFree	21.12
+TCGA-A2-A4S3	TCGA-A2-A4S3-01	Primary	Positive	Positive	Negative	[Not Available]	1.833333333	59	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	21.88	0:DiseaseFree	21.88
+TCGA-A7-A0D9	TCGA-A7-A0D9-01	Primary	Positive	Negative	Negative	[Not Available]	0.9	37	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	37.42	0:DiseaseFree	37.42
+TCGA-A7-A13D	TCGA-A7-A13D-01	Primary	Negative	Positive	Equivocal	Negative	3.2	46	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	31.7	0:DiseaseFree	31.7
+TCGA-A7-A13E	TCGA-A7-A13E-01	Primary	Positive	Negative	Equivocal	Negative	4.333333333	62	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	20.17	1:Recurred/Progressed	18.27
+TCGA-A7-A13F	TCGA-A7-A13F-01	Primary	Positive	Positive	Equivocal	Negative	1.066666667	44	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	25.13	0:DiseaseFree	25.13
+TCGA-A7-A26E	TCGA-A7-A26E-01	Primary	Positive	Positive	Negative	[Not Available]	1.333333333	71	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	31.34	0:DiseaseFree	31.34
+TCGA-A7-A26F	TCGA-A7-A26F-01	Primary	Negative	Negative	Equivocal	Negative	2.233333333	55	Other, specify	Stage IA	0:LIVING	24.24	0:DiseaseFree	24.24
+TCGA-A7-A26G	TCGA-A7-A26G-01	Primary	Negative	Negative	Negative	[Not Available]	1.633333333	50	Other, specify	Stage IIA	0:LIVING	23.72	0:DiseaseFree	23.72
+TCGA-A7-A26H	TCGA-A7-A26H-01	Primary	Positive	Negative	Equivocal	Positive	3.066666667	72	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	23.78	1:Recurred/Progressed	10.22
+TCGA-A7-A26I	TCGA-A7-A26I-01	Primary	Negative	Negative	Equivocal	Negative	1.166666667	65	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	21.71	0:DiseaseFree	21.71
+TCGA-A7-A2KD	TCGA-A7-A2KD-01	Primary	Positive	Positive	Positive	[Not Available]	0.9	53	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	22.31	0:DiseaseFree	22.31
+TCGA-A7-A3IZ	TCGA-A7-A3IZ-01	Primary	Positive	Negative	Equivocal	Negative	2.266666667	62	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	10.58	0:DiseaseFree	10.58
+TCGA-A7-A3J0	TCGA-A7-A3J0-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	62	Mucinous Carcinoma	Stage IIA	0:LIVING	10.28	0:DiseaseFree	10.28
+TCGA-A7-A3J1	TCGA-A7-A3J1-01	Primary	Positive	Positive	Negative	[Not Available]	0.6	63	Infiltrating Lobular Carcinoma	Stage IA	0:LIVING	11.27	0:DiseaseFree	11.27
+TCGA-A7-A3RF	TCGA-A7-A3RF-01	Primary	Positive	Positive	Negative	[Not Available]	1.533333333	79	Mucinous Carcinoma	Stage IIA	0:LIVING	13.4	1:Recurred/Progressed	6.31
+TCGA-A7-A425	TCGA-A7-A425-01	Primary	Positive	Positive	Indeterminate	Negative	1.2	70	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	14.68	1:Recurred/Progressed	14.55
+TCGA-A7-A4SA	TCGA-A7-A4SA-01	Primary	Positive	Negative	Negative	[Not Available]	1.833333333	40	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	14.91	0:DiseaseFree	14.91
+TCGA-A7-A4SD	TCGA-A7-A4SD-01	Primary	Negative	Negative	Equivocal	Negative	1.4	52	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	14.49	0:DiseaseFree	14.49
+TCGA-A7-A4SE	TCGA-A7-A4SE-01	Primary	Negative	Negative	Negative	[Not Available]	2.933333333	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	21.16	0:DiseaseFree	21.16
+TCGA-A7-A4SF	TCGA-A7-A4SF-01	Primary	Positive	Negative	Positive	[Not Available]	1.833333333	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	17.9	0:DiseaseFree	17.9
+TCGA-A7-A5ZV	TCGA-A7-A5ZV-01	Primary	Negative	Negative	Equivocal	Negative	4.966666667	62	Infiltrating Carcinoma NOS	Stage IIA	0:LIVING	12.09	0:DiseaseFree	12.09
+TCGA-A8-A075	TCGA-A8-A075-01	Primary	Positive	Positive	Positive	Positive	2.066666667	42	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	17.02	0:DiseaseFree	17.02
+TCGA-A8-A08O	TCGA-A8-A08O-01	Primary	Positive	Positive	Negative	Negative	0.7	45	Infiltrating Ductal Carcinoma	Stage IV	0:LIVING	30.98	1:Recurred/Progressed	25.03
+TCGA-AC-A23C	TCGA-AC-A23C-01	Primary	Positive	Positive	Positive	Positive	3.333333333	62	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	19.22	0:DiseaseFree	19.22
+TCGA-AC-A23E	TCGA-AC-A23E-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.5	50	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	22.93	0:DiseaseFree	22.93
+TCGA-AC-A2B8	TCGA-AC-A2B8-01	Primary	Positive	Positive	Negative	Negative	2.866666667	84	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	22.24	1:Recurred/Progressed	21.48
+TCGA-AC-A2BK	TCGA-AC-A2BK-01	Primary	Negative	Negative	Negative	[Not Available]	2.466666667	78	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	73	0:DiseaseFree	73
+TCGA-AC-A2BM	TCGA-AC-A2BM-01	Primary	Positive	Positive	[Not Available]	Negative	0.666666667	41	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	99.28	0:DiseaseFree	99.28
+TCGA-AC-A2FB	TCGA-AC-A2FB-01	Primary	Positive	Positive	Positive	[Not Available]	0.5	65	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	40.54	0:DiseaseFree	40.54
+TCGA-AC-A2FE	TCGA-AC-A2FE-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.8	62	Infiltrating Lobular Carcinoma	Stage IIIC	1:DECEASED	86.6	1:Recurred/Progressed	82
+TCGA-AC-A2FF	TCGA-AC-A2FF-01	Primary	Positive	Positive	[Not Available]	Negative	0.5	40	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	90.64	0:DiseaseFree	90.64
+TCGA-AC-A2FG	TCGA-AC-A2FG-01	Primary	Positive	Negative	[Not Available]	Negative	1.266666667	79	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	60.87	0:DiseaseFree	60.87
+TCGA-AC-A2FM	TCGA-AC-A2FM-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.3	87	Infiltrating Lobular Carcinoma	Stage IIB	1:DECEASED	26.02	1:Recurred/Progressed	25.62
+TCGA-AC-A2QI	TCGA-AC-A2QI-01	Primary	Positive	Negative	Negative	[Not Available]	2	76	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	19.32	0:DiseaseFree	19.32
+TCGA-AC-A2QJ	TCGA-AC-A2QJ-01	Primary	Negative	Negative	Negative	[Not Available]	1.1	48	Metaplastic Carcinoma	Stage IIIB	1:DECEASED	14.65	1:Recurred/Progressed	7.79
+TCGA-AC-A3HN	TCGA-AC-A3HN-01	Primary	Positive	Positive	Negative	[Not Available]	0.5	87	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	16.29	0:DiseaseFree	16.29
+TCGA-AC-A3QP	TCGA-AC-A3QP-01	Primary	Positive	Positive	Equivocal	Negative	0.833333333	79	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	22.17	0:DiseaseFree	22.17
+TCGA-AC-A3TM	TCGA-AC-A3TM-01	Primary	Positive	Positive	Equivocal	Equivocal	1.3	50	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	25.03	0:DiseaseFree	25.03
+TCGA-AC-A3TN	TCGA-AC-A3TN-01	Primary	Positive	Positive	Positive	Indeterminate	2.6	75	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	14.98	0:DiseaseFree	14.98
+TCGA-AC-A3W5	TCGA-AC-A3W5-01	Primary	Positive	Positive	[Not Available]	Positive	3.666666667	65	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	16.56	0:DiseaseFree	16.56
+TCGA-AC-A3W6	TCGA-AC-A3W6-01	Primary	Positive	Positive	Negative	[Not Available]	5.666666667	90	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	19.78	0:DiseaseFree	19.78
+TCGA-AC-A3W7	TCGA-AC-A3W7-01	Primary	Positive	Negative	Negative	[Not Available]	1.8	66	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	15.47	0:DiseaseFree	15.47
+TCGA-AC-A5XS	TCGA-AC-A5XS-01	Primary	Positive	Positive	Negative	[Not Available]	12.93333333	74	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	19.32	0:DiseaseFree	19.32
+TCGA-AN-A0XU	TCGA-AN-A0XU-01	Primary	Negative	Negative	Negative	[Not Available]	3.133333333	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	0.33	0:DiseaseFree	0.33
+TCGA-AO-A128	TCGA-AO-A128-01	Primary	Negative	Negative	Negative	Negative	28.66666667	61	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	106.7	0:DiseaseFree	106.7
+TCGA-AO-A1KO	TCGA-AO-A1KO-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	46	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	20.43	0:DiseaseFree	20.43
+TCGA-AO-A1KP	TCGA-AO-A1KP-01	Primary	Positive	Positive	Negative	Negative	0.666666667	77	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	97.01	0:DiseaseFree	97.01
+TCGA-AO-A1KR	TCGA-AO-A1KR-01	Primary	Negative	Negative	Negative	Negative	1.933333333	51	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	82.56	0:DiseaseFree	82.56
+TCGA-AO-A1KS	TCGA-AO-A1KS-01	Primary	Positive	Positive	Equivocal	Negative	1.133333333	69	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	11.5	0:DiseaseFree	11.5
+TCGA-AO-A1KT	TCGA-AO-A1KT-01	Primary	Positive	Positive	Equivocal	Negative	1.133333333	78	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	17.77	0:DiseaseFree	17.77
+TCGA-AQ-A04L	TCGA-AQ-A04L-01	Primary	Positive	Negative	Positive	[Not Available]	1.1	48	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	129.99	0:DiseaseFree	129.99
+TCGA-AQ-A1H2	TCGA-AQ-A1H2-01	Primary	Positive	Positive	Indeterminate	Positive	0.833333333	84	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	15.6	0:DiseaseFree	15.6
+TCGA-AQ-A1H3	TCGA-AQ-A1H3-01	Primary	Positive	Positive	Negative	[Not Available]	1.033333333	49	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	32.49	0:DiseaseFree	32.49
+TCGA-AQ-A54N	TCGA-AQ-A54N-01	Primary	Negative	Negative	Equivocal	Negative	2.333333333	51	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	2.56	0:DiseaseFree	2.56
+TCGA-AQ-A54O	TCGA-AQ-A54O-01	Primary	Positive	Positive	Negative	[Not Available]	0.8	51	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	32.88	0:DiseaseFree	32.88
+TCGA-AR-A0TX	TCGA-AR-A0TX-01	Primary	Positive	Positive	Positive	[Not Available]	8.6	64	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	64.78	0:DiseaseFree	64.78
+TCGA-AR-A0U2	TCGA-AR-A0U2-01	Primary	Positive	Positive	Negative	[Not Available]	1.733333333	47	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	83.8	1:Recurred/Progressed	52.86
+TCGA-AR-A0U3	TCGA-AR-A0U3-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	59	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	134.03	0:DiseaseFree	134.03
+TCGA-AR-A1AI	TCGA-AR-A1AI-01	Primary	Negative	Negative	Equivocal	Negative	2.366666667	47	Medullary Carcinoma	Stage IIA	0:LIVING	108.28	1:Recurred/Progressed	19.32
+TCGA-AR-A1AJ	TCGA-AR-A1AJ-01	Primary	Positive	Negative	Negative	[Not Available]	0.833333333	83	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	100.92	0:DiseaseFree	100.92
+TCGA-AR-A1AK	TCGA-AR-A1AK-01	Primary	Positive	Positive	Negative	[Not Available]	1.9	70	Infiltrating Lobular Carcinoma	Stage I	0:LIVING	103.78	0:DiseaseFree	103.78
+TCGA-AR-A1AL	TCGA-AR-A1AL-01	Primary	Positive	Positive	Negative	[Not Available]	0.733333333	60	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	97.6	0:DiseaseFree	97.6
+TCGA-AR-A1AM	TCGA-AR-A1AM-01	Primary	Positive	Positive	Equivocal	Negative	0.833333333	52	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	98.26	0:DiseaseFree	98.26
+TCGA-AR-A1AO	TCGA-AR-A1AO-01	Primary	Positive	Negative	Negative	[Not Available]	0.733333333	47	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	86.01	0:DiseaseFree	86.01
+TCGA-AR-A1AP	TCGA-AR-A1AP-01	Primary	Positive	Positive	Equivocal	Negative	1.233333333	80	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	93.82	0:DiseaseFree	93.82
+TCGA-AR-A1AQ	TCGA-AR-A1AQ-01	Primary	Negative	Negative	Equivocal	Negative	1.133333333	49	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	99.24	0:DiseaseFree	99.24
+TCGA-AR-A1AS	TCGA-AR-A1AS-01	Primary	Positive	Positive	Negative	[Not Available]	1.066666667	54	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	37.78	0:DiseaseFree	37.78
+TCGA-AR-A1AU	TCGA-AR-A1AU-01	Primary	Positive	Positive	Equivocal	Negative	0.633333333	39	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	94.22	0:DiseaseFree	94.22
+TCGA-AR-A1AV	TCGA-AR-A1AV-01	Primary	Positive	Positive	Negative	[Not Available]	1.333333333	68	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	61.24	0:DiseaseFree	61.24
+TCGA-AR-A1AW	TCGA-AR-A1AW-01	Primary	Positive	Positive	Equivocal	Negative	0.8	65	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	86.47	0:DiseaseFree	86.47
+TCGA-AR-A1AX	TCGA-AR-A1AX-01	Primary	Positive	Positive	Positive	[Not Available]	0.566666667	64	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	86.37	0:DiseaseFree	86.37
+TCGA-AR-A1AY	TCGA-AR-A1AY-01	Primary	Negative	Negative	Negative	[Not Available]	1.633333333	65	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	33.71	0:DiseaseFree	33.71
+TCGA-AR-A24K	TCGA-AR-A24K-01	Primary	Positive	Positive	Equivocal	Negative	0.933333333	46	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	50.85	0:DiseaseFree	50.85
+TCGA-AR-A24L	TCGA-AR-A24L-01	Primary	Positive	Positive	Equivocal	Negative	1.366666667	26	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	94.15	1:Recurred/Progressed	46.45
+TCGA-AR-A24M	TCGA-AR-A24M-01	Primary	Positive	Positive	Negative	[Not Available]	0.5	38	Mixed Histology (please specify)	Stage IIIA	0:LIVING	120.24	0:DiseaseFree	120.24
+TCGA-AR-A24N	TCGA-AR-A24N-01	Primary	Positive	Positive	Equivocal	Negative	1.1	54	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	99.7	0:DiseaseFree	99.7
+TCGA-AR-A24O	TCGA-AR-A24O-01	Primary	Positive	Positive	Negative	[Not Available]	0.6	43	Mixed Histology (please specify)	Stage IIIA	0:LIVING	118.5	1:Recurred/Progressed	84.13
+TCGA-AR-A24P	TCGA-AR-A24P-01	Primary	Positive	Positive	Equivocal	Negative	0.833333333	47	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	2.76	0:DiseaseFree	2.76
+TCGA-AR-A24Q	TCGA-AR-A24Q-01	Primary	Positive	Negative	Negative	[Not Available]	4.233333333	49	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	104.2	0:DiseaseFree	104.2
+TCGA-AR-A24R	TCGA-AR-A24R-01	Primary	Positive	Positive	Negative	Negative	0.7	45	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	112.68	0:DiseaseFree	112.68
+TCGA-AR-A24S	TCGA-AR-A24S-01	Primary	Positive	Positive	Negative	[Not Available]	1.2	61	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	97.77	0:DiseaseFree	97.77
+TCGA-AR-A24T	TCGA-AR-A24T-01	Primary	Positive	Positive	Equivocal	Negative	0.733333333	46	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	105.19	0:DiseaseFree	105.19
+TCGA-AR-A2LE	TCGA-AR-A2LE-01	Primary	Positive	Negative	[Not Available]	[Not Available]	8.1	69	Infiltrating Lobular Carcinoma	Stage I	0:LIVING	166.29	1:Recurred/Progressed	138.07
+TCGA-AR-A2LH	TCGA-AR-A2LH-01	Primary	Negative	Negative	Equivocal	Negative	1.433333333	55	Infiltrating Lobular Carcinoma	Stage III	1:DECEASED	20.24	1:Recurred/Progressed	14.26
+TCGA-AR-A2LJ	TCGA-AR-A2LJ-01	Primary	Positive	Positive	Positive	Positive	0.433333333	40	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	86.47	0:DiseaseFree	86.47
+TCGA-AR-A2LK	TCGA-AR-A2LK-01	Primary	Positive	Positive	Equivocal	Negative	1.033333333	62	Infiltrating Lobular Carcinoma	Stage III	1:DECEASED	54.17	1:Recurred/Progressed	42.84
+TCGA-AR-A2LM	TCGA-AR-A2LM-01	Primary	Positive	Positive	[Not Available]	Negative	0.433333333	49	Infiltrating Lobular Carcinoma	Stage II	0:LIVING	63.57	0:DiseaseFree	63.57
+TCGA-AR-A2LN	TCGA-AR-A2LN-01	Primary	Positive	Positive	Negative	[Not Available]	1.066666667	65	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	38.14	0:DiseaseFree	38.14
+TCGA-AR-A2LO	TCGA-AR-A2LO-01	Primary	Positive	Positive	Equivocal	Negative	0.4	46	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	39.36	0:DiseaseFree	39.36
+TCGA-AR-A2LQ	TCGA-AR-A2LQ-01	Primary	Positive	Positive	Negative	[Not Available]	0.4	59	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	40.51	0:DiseaseFree	40.51
+TCGA-B6-A0IK	TCGA-B6-A0IK-01	Primary	Negative	Negative	[Not Available]	[Not Available]	4	63	Infiltrating Ductal Carcinoma	Stage IIIB	1:DECEASED	18.76	1:Recurred/Progressed	16.06
+TCGA-B6-A0RG	TCGA-B6-A0RG-01	Primary	Negative	Negative	[Not Available]	[Not Available]	1.866666667	26	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	68.4	0:DiseaseFree	68.4
+TCGA-B6-A0RN	TCGA-B6-A0RN-01	Primary	Negative	Negative	[Not Available]	[Not Available]	0.933333333	60	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	263.07	0:DiseaseFree	263.07
+TCGA-B6-A0RO	TCGA-B6-A0RO-01	Primary	Positive	Positive	[Not Available]	[Not Available]	1.133333333	71	Infiltrating Ductal Carcinoma	Stage IIIB	0:LIVING	161.93	0:DiseaseFree	161.93
+TCGA-B6-A0RP	TCGA-B6-A0RP-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.666666667	73	Mixed Histology (please specify)	[Discrepancy]	1:DECEASED	102.69	1:Recurred/Progressed	91.56
+TCGA-B6-A0RT	TCGA-B6-A0RT-01	Primary	Negative	Negative	[Not Available]	[Not Available]	1.033333333	39	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	89.39	0:DiseaseFree	89.39
+TCGA-B6-A0RU	TCGA-B6-A0RU-01	Primary	Negative	Negative	[Not Available]	[Not Available]	1.366666667	40	Other, specify	Stage IA	0:LIVING	282.69	1:Recurred/Progressed	101.05
+TCGA-B6-A0RV	TCGA-B6-A0RV-01	Primary	Positive	Positive	[Not Available]	[Not Available]	1.166666667	42	Mixed Histology (please specify)	Stage IIIA	0:LIVING	169.38	0:DiseaseFree	169.38
+TCGA-B6-A0WX	TCGA-B6-A0WX-01	Primary	Negative	Negative	[Not Available]	[Not Available]	0.833333333	40	Other, specify	Stage IIIA	1:DECEASED	20.99	1:Recurred/Progressed	18.5
+TCGA-B6-A2IU	TCGA-B6-A2IU-01	Primary	Positive	Positive	[Not Available]	[Not Available]	1.233333333	62	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	170.04	1:Recurred/Progressed	138.76
+TCGA-BH-A0AU	TCGA-BH-A0AU-01	Primary	Positive	Positive	Positive	Negative	0.6	45	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	62.88	0:DiseaseFree	62.88
+TCGA-BH-A0AZ	TCGA-BH-A0AZ-01	Primary	Positive	Positive	Negative	[Not Available]	1.566666667	47	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	63.04	0:DiseaseFree	63.04
+TCGA-BH-A0B3	TCGA-BH-A0B3-01	Primary	Negative	Negative	Negative	[Not Available]	1.166666667	53	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	39.52	0:DiseaseFree	39.52
+TCGA-BH-A0B5	TCGA-BH-A0B5-01	Primary	Positive	Positive	Negative	[Not Available]	1.9	40	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	70.17	0:DiseaseFree	70.17
+TCGA-BH-A0B6	TCGA-BH-A0B6-01	Primary	Positive	Positive	Positive	[Not Available]	19.7	47	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	81.57	0:DiseaseFree	81.57
+TCGA-BH-A0B9	TCGA-BH-A0B9-01	Primary	Negative	Negative	Negative	[Not Available]	1.2	44	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	51.64	0:DiseaseFree	51.64
+TCGA-BH-A0BA	TCGA-BH-A0BA-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	51	Mixed Histology (please specify)	Stage IIIC	0:LIVING	37.19	0:DiseaseFree	37.19
+TCGA-BH-A0BC	TCGA-BH-A0BC-01	Primary	Positive	Positive	Negative	[Not Available]	0.9	60	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	32	0:DiseaseFree	32
+TCGA-BH-A0BF	TCGA-BH-A0BF-01	Primary	Positive	Positive	Negative	[Not Available]	0.866666667	56	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	43.5	[Not Available]	[Not Available]
+TCGA-BH-A0BJ	TCGA-BH-A0BJ-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	41	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	21.68	0:DiseaseFree	21.68
+TCGA-BH-A0BM	TCGA-BH-A0BM-01	Primary	Positive	Negative	Negative	[Not Available]	1	54	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	61.63	0:DiseaseFree	61.63
+TCGA-BH-A0BS	TCGA-BH-A0BS-01	Primary	Positive	Positive	[Not Available]	Negative	0.4	55	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	85.81	0:DiseaseFree	85.81
+TCGA-BH-A0BZ	TCGA-BH-A0BZ-01	Primary	Positive	Positive	Negative	[Not Available]	6.933333333	59	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	74.08	0:DiseaseFree	74.08
+TCGA-BH-A0C0	TCGA-BH-A0C0-01	Primary	Positive	Positive	Equivocal	Positive	2.866666667	62	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	41.72	0:DiseaseFree	41.72
+TCGA-BH-A0C3	TCGA-BH-A0C3-01	Primary	Positive	Negative	Negative	[Not Available]	0.366666667	47	Mixed Histology (please specify)	Stage I	0:LIVING	88.99	1:Recurred/Progressed	87.84
+TCGA-BH-A0DD	TCGA-BH-A0DD-01	Primary	Positive	Positive	Positive	Positive	0.533333333	58	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	81.67	0:DiseaseFree	81.67
+TCGA-BH-A0DG	TCGA-BH-A0DG-01	Primary	Positive	Negative	Negative	[Not Available]	1	30	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	67.05	0:DiseaseFree	67.05
+TCGA-BH-A0DH	TCGA-BH-A0DH-01	Primary	Positive	Positive	Negative	[Not Available]	1.233333333	63	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	37.98	0:DiseaseFree	37.98
+TCGA-BH-A0DI	TCGA-BH-A0DI-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	63	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	29.96	0:DiseaseFree	29.96
+TCGA-BH-A0DK	TCGA-BH-A0DK-01	Primary	Positive	Positive	Negative	[Not Available]	2.633333333	49	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	13.9	0:DiseaseFree	13.9
+TCGA-BH-A0DP	TCGA-BH-A0DP-01	Primary	Positive	Positive	Negative	[Not Available]	1.2	60	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	15.64	0:DiseaseFree	15.64
+TCGA-BH-A0DS	TCGA-BH-A0DS-01	Primary	Positive	Positive	Negative	[Not Available]	1.133333333	71	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	2.56	0:DiseaseFree	2.56
+TCGA-BH-A0DV	TCGA-BH-A0DV-01	Primary	Positive	Positive	Negative	[Not Available]	0.233333333	54	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	67.81	0:DiseaseFree	67.81
+TCGA-BH-A0E0	TCGA-BH-A0E0-01	Primary	Negative	Negative	Negative	[Not Available]	1.066666667	38	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	4.4	0:DiseaseFree	4.4
+TCGA-BH-A0E1	TCGA-BH-A0E1-01	Primary	Positive	Positive	Equivocal	Negative	0.9	52	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	15.67	0:DiseaseFree	15.67
+TCGA-BH-A0E2	TCGA-BH-A0E2-01	Primary	Positive	Positive	Negative	[Not Available]	1.1	49	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	14.29	0:DiseaseFree	14.29
+TCGA-BH-A0GY	TCGA-BH-A0GY-01	Primary	Positive	Positive	Negative	[Not Available]	1.266666667	67	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	30.32	0:DiseaseFree	30.32
+TCGA-BH-A0H6	TCGA-BH-A0H6-01	Primary	Positive	Positive	Negative	[Not Available]	0.466666667	82	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	24.54	0:DiseaseFree	24.54
+TCGA-BH-A0H7	TCGA-BH-A0H7-01	Primary	Positive	Positive	Negative	[Not Available]	1.9	65	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	23.06	0:DiseaseFree	23.06
+TCGA-BH-A0H9	TCGA-BH-A0H9-01	Primary	Positive	Positive	Equivocal	Negative	1.266666667	69	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	40.97	0:DiseaseFree	40.97
+TCGA-BH-A0HA	TCGA-BH-A0HA-01	Primary	Positive	Positive	[Not Available]	Negative	8.633333333	31	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	52.92	0:DiseaseFree	52.92
+TCGA-BH-A0HK	TCGA-BH-A0HK-01	Primary	Positive	Negative	Negative	[Not Available]	3	81	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	5.85	0:DiseaseFree	5.85
+TCGA-BH-A0HP	TCGA-BH-A0HP-01	Primary	Positive	Negative	Negative	[Not Available]	7.166666667	65	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	13.6	0:DiseaseFree	13.6
+TCGA-BH-A0HX	TCGA-BH-A0HX-01	Primary	Positive	Positive	Negative	[Not Available]	1.633333333	54	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	27.23	0:DiseaseFree	27.23
+TCGA-BH-A0HY	TCGA-BH-A0HY-01	Primary	Positive	Negative	Positive	[Not Available]	1.566666667	60	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	50.76	0:DiseaseFree	50.76
+TCGA-BH-A0RX	TCGA-BH-A0RX-01	Primary	Negative	Negative	Negative	[Not Available]	0.766666667	59	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	5.58	0:DiseaseFree	5.58
+TCGA-BH-A0W4	TCGA-BH-A0W4-01	Primary	Positive	Positive	Negative	[Not Available]	1.1	46	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	24.93	0:DiseaseFree	24.93
+TCGA-BH-A0W5	TCGA-BH-A0W5-01	Primary	Positive	Positive	Equivocal	Equivocal	0.7	77	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	42.31	0:DiseaseFree	42.31
+TCGA-BH-A1EN	TCGA-BH-A1EN-01	Primary	Negative	Negative	Positive	[Not Available]	1.4	78	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	69.88	[Not Available]	[Not Available]
+TCGA-BH-A1EO	TCGA-BH-A1EO-01	Primary	Positive	Positive	Negative	[Not Available]	1.1	68	Mixed Histology (please specify)	Stage IIA	1:DECEASED	91.92	[Not Available]	[Not Available]
+TCGA-BH-A1ET	TCGA-BH-A1ET-01	Primary	Positive	Positive	Negative	[Not Available]	0.666666667	55	Infiltrating Ductal Carcinoma	Stage I	1:DECEASED	82.79	[Not Available]	[Not Available]
+TCGA-BH-A1EU	TCGA-BH-A1EU-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	83	Infiltrating Ductal Carcinoma	Stage I	1:DECEASED	42.25	[Not Available]	[Not Available]
+TCGA-BH-A1EV	TCGA-BH-A1EV-01	Primary	Positive	Positive	Positive	[Not Available]	2.5	45	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	11.99	[Not Available]	[Not Available]
+TCGA-BH-A1EW	TCGA-BH-A1EW-01	Primary	Negative	Negative	Negative	[Not Available]	0.4	38	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	55.65	[Not Available]	[Not Available]
+TCGA-BH-A1EX	TCGA-BH-A1EX-01	Primary	Positive	Positive	Positive	Negative	0.666666667	67	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	49.54	[Not Available]	[Not Available]
+TCGA-BH-A1EY	TCGA-BH-A1EY-01	Primary	Positive	Positive	Negative	[Not Available]	1.1	79	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	17.67	1:Recurred/Progressed	13.01
+TCGA-BH-A1F0	TCGA-BH-A1F0-01	Primary	Negative	Indeterminate	Negative	[Not Available]	0.866666667	80	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	25.79	[Not Available]	[Not Available]
+TCGA-BH-A1F2	TCGA-BH-A1F2-01	Primary	Positive	Positive	Positive	[Not Available]	1.4	53	Infiltrating Ductal Carcinoma	Stage IIIB	1:DECEASED	31.5	[Not Available]	[Not Available]
+TCGA-BH-A1F5	TCGA-BH-A1F5-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	62	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	89.09	[Not Available]	[Not Available]
+TCGA-BH-A1F6	TCGA-BH-A1F6-01	Primary	Negative	Negative	Negative	[Not Available]	1.7	51	Infiltrating Ductal Carcinoma	[Not Available]	1:DECEASED	97.4	[Not Available]	[Not Available]
+TCGA-BH-A1F8	TCGA-BH-A1F8-01	Primary	Positive	Positive	Positive	[Not Available]	3.9	90	Infiltrating Ductal Carcinoma	Stage IIIB	1:DECEASED	25.07	[Not Available]	[Not Available]
+TCGA-BH-A1FC	TCGA-BH-A1FC-01	Primary	Negative	Negative	Negative	[Not Available]	2.833333333	78	Medullary Carcinoma	Stage IIA	1:DECEASED	114.06	[Not Available]	[Not Available]
+TCGA-BH-A1FE	TCGA-BH-A1FE-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.7	31	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	74.67	[Not Available]	[Not Available]
+TCGA-BH-A1FG	TCGA-BH-A1FG-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	88	Infiltrating Ductal Carcinoma	Stage I	1:DECEASED	122.73	[Not Available]	[Not Available]
+TCGA-BH-A1FH	TCGA-BH-A1FH-01	Primary	Positive	Negative	[Not Available]	[Not Available]	0.266666667	47	Infiltrating Ductal Carcinoma	Stage IV	1:DECEASED	33.97	[Not Available]	[Not Available]
+TCGA-BH-A1FJ	TCGA-BH-A1FJ-01	Primary	Negative	Positive	[Not Available]	[Not Available]	0.833333333	66	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	63.3	[Not Available]	[Not Available]
+TCGA-BH-A1FL	TCGA-BH-A1FL-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.866666667	69	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	54.96	[Not Available]	[Not Available]
+TCGA-BH-A1FM	TCGA-BH-A1FM-01	Primary	Positive	Negative	[Not Available]	[Not Available]	1.333333333	44	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	45.6	[Not Available]	[Not Available]
+TCGA-BH-A1FN	TCGA-BH-A1FN-01	Primary	Positive	Positive	[Not Available]	[Not Available]	3.066666667	34	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	72.01	[Not Available]	[Not Available]
+TCGA-BH-A1FR	TCGA-BH-A1FR-01	Primary	Positive	Positive	[Not Available]	[Not Available]	0.666666667	73	Other, specify	Stage IIIB	1:DECEASED	53.94	[Not Available]	[Not Available]
+TCGA-BH-A201	TCGA-BH-A201-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	64	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	28.12	0:DiseaseFree	28.12
+TCGA-BH-A202	TCGA-BH-A202-01	Primary	Positive	Positive	Positive	[Not Available]	0.866666667	60	Infiltrating Ductal Carcinoma	Stage II	0:LIVING	26.12	0:DiseaseFree	26.12
+TCGA-BH-A203	TCGA-BH-A203-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.8	78	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	38.57	[Not Available]	[Not Available]
+TCGA-BH-A204	TCGA-BH-A204-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.1	80	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	83.25	[Not Available]	[Not Available]
+TCGA-BH-A208	TCGA-BH-A208-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.7	48	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	57.79	[Not Available]	[Not Available]
+TCGA-BH-A209	TCGA-BH-A209-01	Primary	Positive	Positive	[Not Available]	[Not Available]	2.533333333	77	Medullary Carcinoma	Stage I	1:DECEASED	130.06	[Not Available]	[Not Available]
+TCGA-BH-A28Q	TCGA-BH-A28Q-01	Primary	Positive	Positive	Negative	Indeterminate	0.633333333	46	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	36.76	0:DiseaseFree	36.76
+TCGA-BH-A42T	TCGA-BH-A42T-01	Primary	Positive	Positive	Positive	Equivocal	1.033333333	75	Infiltrating Lobular Carcinoma	Stage IIA	1:DECEASED	10.51	[Not Available]	[Not Available]
+TCGA-BH-A42U	TCGA-BH-A42U-01	Primary	Negative	Negative	Negative	[Not Available]	0.3	80	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	110.51	0:DiseaseFree	110.51
+TCGA-BH-A42V	TCGA-BH-A42V-01	Primary	Positive	Positive	Negative	[Not Available]	1.3	41	Infiltrating Ductal Carcinoma	Stage IB	0:LIVING	20.86	0:DiseaseFree	20.86
+TCGA-C8-A1HE	TCGA-C8-A1HE-01	Primary	Positive	Positive	Equivocal	[Not Available]	1.5	59	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	12.32	0:DiseaseFree	12.32
+TCGA-C8-A1HF	TCGA-C8-A1HF-01	Primary	Negative	Positive	Positive	[Not Available]	0.733333333	48	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	10.91	0:DiseaseFree	10.91
+TCGA-C8-A1HG	TCGA-C8-A1HG-01	Primary	Positive	Positive	Negative	[Not Available]	1.133333333	50	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	11.33	0:DiseaseFree	11.33
+TCGA-C8-A1HI	TCGA-C8-A1HI-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	40	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	11.27	0:DiseaseFree	11.27
+TCGA-C8-A1HJ	TCGA-C8-A1HJ-01	Primary	Negative	Negative	Negative	[Not Available]	3.3	53	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	0.16	0:DiseaseFree	0.16
+TCGA-C8-A1HK	TCGA-C8-A1HK-01	Primary	Negative	Negative	Positive	[Not Available]	1.6	53	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	12.02	0:DiseaseFree	12.02
+TCGA-C8-A1HL	TCGA-C8-A1HL-01	Primary	Positive	Negative	Equivocal	[Not Available]	0.8	38	Other, specify	Stage IIIA	0:LIVING	10.41	0:DiseaseFree	10.41
+TCGA-C8-A1HM	TCGA-C8-A1HM-01	Primary	Positive	Positive	Negative	[Not Available]	8.333333333	74	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	12.32	0:DiseaseFree	12.32
+TCGA-C8-A1HN	TCGA-C8-A1HN-01	Primary	Positive	Positive	Equivocal	[Not Available]	1.266666667	56	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	12.94	0:DiseaseFree	12.94
+TCGA-C8-A1HO	TCGA-C8-A1HO-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	34	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	12.32	0:DiseaseFree	12.32
+TCGA-C8-A26V	TCGA-C8-A26V-01	Primary	Positive	Positive	Negative	[Not Available]	2.033333333	47	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	20.24	0:DiseaseFree	20.24
+TCGA-C8-A26W	TCGA-C8-A26W-01	Primary	Positive	Positive	Equivocal	[Not Available]	1.4	58	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	12.52	0:DiseaseFree	12.52
+TCGA-C8-A26X	TCGA-C8-A26X-01	Primary	Negative	Negative	Negative	[Not Available]	1.7	58	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	12.35	0:DiseaseFree	12.35
+TCGA-C8-A26Y	TCGA-C8-A26Y-01	Primary	Negative	Negative	Negative	[Not Available]	19.96666667	90	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	12.94	0:DiseaseFree	12.94
+TCGA-C8-A26Z	TCGA-C8-A26Z-01	Primary	Positive	Positive	Negative	[Not Available]	1.4	59	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	15.44	0:DiseaseFree	15.44
+TCGA-C8-A273	TCGA-C8-A273-01	Primary	Positive	Positive	Negative	[Not Available]	0.7	29	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	16.85	0:DiseaseFree	16.85
+TCGA-C8-A274	TCGA-C8-A274-01	Primary	Positive	Positive	Negative	[Not Available]	5.033333333	63	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	16.69	0:DiseaseFree	16.69
+TCGA-C8-A275	TCGA-C8-A275-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	3.233333333	56	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	0.03	0:DiseaseFree	0.03
+TCGA-C8-A278	TCGA-C8-A278-01	Primary	Negative	Negative	Positive	[Not Available]	0.8	61	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	9.76	0:DiseaseFree	9.76
+TCGA-C8-A27A	TCGA-C8-A27A-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	48	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	24.54	0:DiseaseFree	24.54
+TCGA-C8-A27B	TCGA-C8-A27B-01	Primary	Negative	Negative	Negative	[Not Available]	4.066666667	48	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	14.42	0:DiseaseFree	14.42
+TCGA-C8-A3M7	TCGA-C8-A3M7-01	Primary	Negative	Negative	Negative	[Not Available]	4	60	Infiltrating Lobular Carcinoma	Stage IIIB	1:DECEASED	33.97	1:Recurred/Progressed	33.97
+TCGA-C8-A3M8	TCGA-C8-A3M8-01	Primary	Positive	Positive	Positive	[Not Available]	1.466666667	68	Infiltrating Lobular Carcinoma	Stage IA	0:LIVING	12.94	0:DiseaseFree	12.94
+TCGA-D8-A1J8	TCGA-D8-A1J8-01	Primary	Positive	Positive	Negative	[Not Available]	20.16666667	77	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	14.16	0:DiseaseFree	14.16
+TCGA-D8-A1J9	TCGA-D8-A1J9-01	Primary	Positive	Negative	Positive	[Not Available]	4.633333333	48	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	17.48	0:DiseaseFree	17.48
+TCGA-D8-A1JA	TCGA-D8-A1JA-01	Primary	Negative	Negative	Positive	[Not Available]	25.66666667	60	Infiltrating Ductal Carcinoma	[Not Available]	0:LIVING	16.49	1:Recurred/Progressed	14.16
+TCGA-D8-A1JB	TCGA-D8-A1JB-01	Primary	Positive	Positive	Equivocal	Positive	1.033333333	54	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	55.45	0:DiseaseFree	55.45
+TCGA-D8-A1JC	TCGA-D8-A1JC-01	Primary	Positive	Positive	Negative	[Not Available]	2.233333333	59	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	15.77	0:DiseaseFree	15.77
+TCGA-D8-A1JD	TCGA-D8-A1JD-01	Primary	Positive	Positive	Negative	[Not Available]	2.8	41	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.13	0:DiseaseFree	18.13
+TCGA-D8-A1JE	TCGA-D8-A1JE-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	62	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	18.89	0:DiseaseFree	18.89
+TCGA-D8-A1JF	TCGA-D8-A1JF-01	Primary	Negative	Negative	Negative	[Not Available]	1.233333333	79	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	12.02	0:DiseaseFree	12.02
+TCGA-D8-A1JG	TCGA-D8-A1JG-01	Primary	Negative	Negative	Equivocal	Negative	3.6	62	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	52.96	0:DiseaseFree	52.96
+TCGA-D8-A1JH	TCGA-D8-A1JH-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	56	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	13.99	0:DiseaseFree	13.99
+TCGA-D8-A1JI	TCGA-D8-A1JI-01	Primary	Positive	Positive	Negative	[Not Available]	1	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	18.96	0:DiseaseFree	18.96
+TCGA-D8-A1JJ	TCGA-D8-A1JJ-01	Primary	Positive	Positive	Negative	[Not Available]	1.933333333	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	20.07	0:DiseaseFree	20.07
+TCGA-D8-A1JK	TCGA-D8-A1JK-01	Primary	Negative	Positive	Negative	[Not Available]	5.466666667	90	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	20.11	0:DiseaseFree	20.11
+TCGA-D8-A1JL	TCGA-D8-A1JL-01	Primary	Negative	Negative	Negative	[Not Available]	2.933333333	72	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	20.07	0:DiseaseFree	20.07
+TCGA-D8-A1JN	TCGA-D8-A1JN-01	Primary	Positive	Positive	Indeterminate	Negative	3.833333333	80	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	20.37	0:DiseaseFree	20.37
+TCGA-D8-A1JP	TCGA-D8-A1JP-01	Primary	Positive	Positive	Negative	[Not Available]	3.233333333	73	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	20.99	0:DiseaseFree	20.99
+TCGA-D8-A1JS	TCGA-D8-A1JS-01	Primary	Positive	Positive	Negative	[Not Available]	0.533333333	77	Other, specify	Stage IA	0:LIVING	12.19	0:DiseaseFree	12.19
+TCGA-D8-A1JT	TCGA-D8-A1JT-01	Primary	Positive	Positive	Equivocal	Negative	1	70	Other, specify	Stage IIA	0:LIVING	13.3	0:DiseaseFree	13.3
+TCGA-D8-A1JU	TCGA-D8-A1JU-01	Primary	Positive	Positive	Negative	[Not Available]	0.3	51	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	14.68	0:DiseaseFree	14.68
+TCGA-D8-A1X5	TCGA-D8-A1X5-01	Primary	Positive	Positive	Positive	[Not Available]	1.3	81	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	18.56	0:DiseaseFree	18.56
+TCGA-D8-A1X6	TCGA-D8-A1X6-01	Primary	Positive	Positive	Negative	[Not Available]	1.3	80	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	17.77	0:DiseaseFree	17.77
+TCGA-D8-A1X7	TCGA-D8-A1X7-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	40	Other, specify	Stage IIA	0:LIVING	16.72	0:DiseaseFree	16.72
+TCGA-D8-A1X8	TCGA-D8-A1X8-01	Primary	Positive	Indeterminate	Negative	[Not Available]	0.666666667	62	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	25.72	0:DiseaseFree	25.72
+TCGA-D8-A1X9	TCGA-D8-A1X9-01	Primary	Positive	Positive	Indeterminate	Negative	2.6	66	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	23.88	0:DiseaseFree	23.88
+TCGA-D8-A1XA	TCGA-D8-A1XA-01	Primary	Positive	Positive	Equivocal	[Not Available]	0.766666667	64	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	27.56	0:DiseaseFree	27.56
+TCGA-D8-A1XB	TCGA-D8-A1XB-01	Primary	Positive	Positive	Negative	[Not Available]	0.9	62	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.13	0:DiseaseFree	18.13
+TCGA-D8-A1XC	TCGA-D8-A1XC-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	85	Mucinous Carcinoma	Stage IIIB	1:DECEASED	12.39	[Not Available]	[Not Available]
+TCGA-D8-A1XF	TCGA-D8-A1XF-01	Primary	Positive	Positive	Negative	[Not Available]	1.133333333	45	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	15.21	0:DiseaseFree	15.21
+TCGA-D8-A1XG	TCGA-D8-A1XG-01	Primary	Positive	Negative	Negative	[Not Available]	0.833333333	86	Infiltrating Ductal Carcinoma	Stage IIIB	0:LIVING	14.72	0:DiseaseFree	14.72
+TCGA-D8-A1XJ	TCGA-D8-A1XJ-01	Primary	Positive	Positive	Positive	[Not Available]	2.366666667	76	Other, specify	Stage IIIA	0:LIVING	21.81	0:DiseaseFree	21.81
+TCGA-D8-A1XK	TCGA-D8-A1XK-01	Primary	Negative	Negative	Negative	[Not Available]	29.56666667	55	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	14.49	0:DiseaseFree	14.49
+TCGA-D8-A1XL	TCGA-D8-A1XL-01	Primary	Positive	Positive	Equivocal	Negative	3.066666667	34	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	19.91	0:DiseaseFree	19.91
+TCGA-D8-A1XM	TCGA-D8-A1XM-01	Primary	Positive	Positive	Negative	[Not Available]	1.4	57	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	17.67	0:DiseaseFree	17.67
+TCGA-D8-A1XO	TCGA-D8-A1XO-01	Primary	Positive	Positive	Negative	[Not Available]	0.4	56	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	55.26	0:DiseaseFree	55.26
+TCGA-D8-A1XQ	TCGA-D8-A1XQ-01	Primary	Negative	Negative	Negative	[Not Available]	22.46666667	69	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	16.39	0:DiseaseFree	16.39
+TCGA-D8-A1XR	TCGA-D8-A1XR-01	Primary	Positive	Positive	Negative	[Not Available]	0.7	56	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	15.83	0:DiseaseFree	15.83
+TCGA-D8-A1XS	TCGA-D8-A1XS-01	Primary	Positive	Positive	Positive	[Not Available]	0.5	48	Other, specify	Stage IIIC	0:LIVING	16.29	0:DiseaseFree	16.29
+TCGA-D8-A1XT	TCGA-D8-A1XT-01	Primary	Negative	Negative	Positive	[Not Available]	1.3	61	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	16.62	0:DiseaseFree	16.62
+TCGA-D8-A1XU	TCGA-D8-A1XU-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	56	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	12.98	0:DiseaseFree	12.98
+TCGA-D8-A1XV	TCGA-D8-A1XV-01	Primary	Positive	Positive	Equivocal	Negative	0.8	84	Mucinous Carcinoma	Stage IIA	0:LIVING	15.14	0:DiseaseFree	15.14
+TCGA-D8-A1XW	TCGA-D8-A1XW-01	Primary	Negative	Positive	Negative	[Not Available]	2.566666667	53	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	43	0:DiseaseFree	43
+TCGA-D8-A1XY	TCGA-D8-A1XY-01	Primary	Positive	Positive	Positive	[Not Available]	1.1	74	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	16.52	0:DiseaseFree	16.52
+TCGA-D8-A1XZ	TCGA-D8-A1XZ-01	Primary	Positive	Negative	Negative	[Not Available]	1.8	81	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	15.31	0:DiseaseFree	15.31
+TCGA-D8-A1Y0	TCGA-D8-A1Y0-01	Primary	Positive	Positive	Negative	[Not Available]	1.9	65	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	15.51	0:DiseaseFree	15.51
+TCGA-D8-A1Y1	TCGA-D8-A1Y1-01	Primary	Positive	Positive	Negative	[Not Available]	6.766666667	80	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	9.92	[Not Available]	[Not Available]
+TCGA-D8-A1Y2	TCGA-D8-A1Y2-01	Primary	Positive	Positive	Indeterminate	Negative	0.666666667	71	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	14.22	0:DiseaseFree	14.22
+TCGA-D8-A1Y3	TCGA-D8-A1Y3-01	Primary	Positive	Positive	Indeterminate	Negative	1.566666667	61	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	14.13	0:DiseaseFree	14.13
+TCGA-D8-A27E	TCGA-D8-A27E-01	Primary	Positive	Positive	Negative	[Not Available]	0.3	66	Other, specify	Stage IA	0:LIVING	17.41	0:DiseaseFree	17.41
+TCGA-D8-A27F	TCGA-D8-A27F-01	Primary	Negative	Negative	Negative	[Not Available]	1.6	40	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	16.03	0:DiseaseFree	16.03
+TCGA-D8-A27G	TCGA-D8-A27G-01	Primary	Positive	Positive	Equivocal	Negative	27.16666667	75	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	13.44	0:DiseaseFree	13.44
+TCGA-D8-A27H	TCGA-D8-A27H-01	Primary	Negative	Negative	Negative	[Not Available]	3.5	72	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	13.04	0:DiseaseFree	13.04
+TCGA-D8-A27I	TCGA-D8-A27I-01	Primary	Positive	Positive	Negative	[Not Available]	1.1	58	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	14.42	0:DiseaseFree	14.42
+TCGA-D8-A27K	TCGA-D8-A27K-01	Primary	Positive	Positive	Negative	[Not Available]	0.766666667	47	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	48	0:DiseaseFree	48
+TCGA-D8-A27L	TCGA-D8-A27L-01	Primary	Positive	Positive	Negative	[Not Available]	0.966666667	49	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	16.39	0:DiseaseFree	16.39
+TCGA-D8-A27M	TCGA-D8-A27M-01	Primary	Negative	Negative	Negative	[Not Available]	2.266666667	59	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	13.47	0:DiseaseFree	13.47
+TCGA-D8-A27N	TCGA-D8-A27N-01	Primary	Positive	Positive	Positive	[Not Available]	1.233333333	36	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	17.05	0:DiseaseFree	17.05
+TCGA-D8-A27P	TCGA-D8-A27P-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	64	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	1.61	0:DiseaseFree	1.61
+TCGA-D8-A27R	TCGA-D8-A27R-01	Primary	Positive	Positive	Equivocal	Negative	0.9	41	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	10.09	0:DiseaseFree	10.09
+TCGA-D8-A27T	TCGA-D8-A27T-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	53	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	13.07	0:DiseaseFree	13.07
+TCGA-D8-A27V	TCGA-D8-A27V-01	Primary	Positive	Positive	Negative	[Not Available]	5.533333333	62	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	12.52	0:DiseaseFree	12.52
+TCGA-D8-A27W	TCGA-D8-A27W-01	Primary	Positive	Positive	Equivocal	Positive	0.733333333	55	Mucinous Carcinoma	Stage IIIB	0:LIVING	12.25	0:DiseaseFree	12.25
+TCGA-D8-A3Z5	TCGA-D8-A3Z5-01	Primary	Positive	Positive	Negative	[Not Available]	0.466666667	54	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	33.34	0:DiseaseFree	33.34
+TCGA-E2-A107	TCGA-E2-A107-01	Primary	Positive	Negative	Equivocal	Negative	0.766666667	54	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	34.4	0:DiseaseFree	34.4
+TCGA-E2-A108	TCGA-E2-A108-01	Primary	Positive	Positive	Negative	[Not Available]	2.3	64	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	27.5	0:DiseaseFree	27.5
+TCGA-E2-A109	TCGA-E2-A109-01	Primary	Positive	Negative	Equivocal	Negative	2.333333333	64	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	46.55	0:DiseaseFree	46.55
+TCGA-E2-A10B	TCGA-E2-A10B-01	Primary	Positive	Positive	Equivocal	Negative	1.2	67	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	37.48	1:Recurred/Progressed	6.41
+TCGA-E2-A10C	TCGA-E2-A10C-01	Primary	Positive	Positive	Negative	[Not Available]	9.633333333	54	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	40.08	0:DiseaseFree	40.08
+TCGA-E2-A10E	TCGA-E2-A10E-01	Primary	Positive	Positive	Equivocal	Negative	0.666666667	64	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	28.42	0:DiseaseFree	28.42
+TCGA-E2-A14N	TCGA-E2-A14N-01	Primary	Negative	Negative	Negative	[Not Available]	1.866666667	37	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	47.11	0:DiseaseFree	47.11
+TCGA-E2-A15I	TCGA-E2-A15I-01	Primary	Positive	Positive	Equivocal	Negative	4	44	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	55.58	0:DiseaseFree	55.58
+TCGA-E2-A15K	TCGA-E2-A15K-01	Primary	Positive	Positive	Equivocal	Negative	1.233333333	58	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	9.03	0:DiseaseFree	9.03
+TCGA-E2-A1AZ	TCGA-E2-A1AZ-01	Primary	Negative	Negative	Indeterminate	Negative	1.5	63	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	76.51	0:DiseaseFree	76.51
+TCGA-E2-A1B0	TCGA-E2-A1B0-01	Primary	Negative	Negative	Positive	[Not Available]	1.033333333	50	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	53.58	0:DiseaseFree	53.58
+TCGA-E2-A1B1	TCGA-E2-A1B1-01	Primary	Positive	Positive	Equivocal	Positive	0.533333333	45	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	87.16	0:DiseaseFree	87.16
+TCGA-E2-A1B4	TCGA-E2-A1B4-01	Primary	Positive	Positive	Negative	[Not Available]	1	74	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	32.98	[Not Available]	[Not Available]
+TCGA-E2-A1B5	TCGA-E2-A1B5-01	Primary	Positive	Positive	Negative	[Not Available]	0.7	46	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	32.33	0:DiseaseFree	32.33
+TCGA-E2-A1B6	TCGA-E2-A1B6-01	Primary	Negative	Negative	Equivocal	Negative	0.566666667	44	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	28.48	0:DiseaseFree	28.48
+TCGA-E2-A1BC	TCGA-E2-A1BC-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	63	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	16.46	0:DiseaseFree	16.46
+TCGA-E2-A1BD	TCGA-E2-A1BD-01	Primary	Positive	Positive	Equivocal	Negative	1.066666667	53	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	37.22	0:DiseaseFree	37.22
+TCGA-E2-A1IG	TCGA-E2-A1IG-01	Primary	Positive	Positive	Negative	[Not Available]	1.2	45	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	70.3	0:DiseaseFree	70.3
+TCGA-E2-A1IL	TCGA-E2-A1IL-01	Primary	Positive	Positive	Negative	[Not Available]	0.6	78	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	3.88	0:DiseaseFree	3.88
+TCGA-E2-A1IU	TCGA-E2-A1IU-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	60	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	11.07	0:DiseaseFree	11.07
+TCGA-E2-A1L6	TCGA-E2-A1L6-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	44	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	54.14	0:DiseaseFree	54.14
+TCGA-E2-A1L7	TCGA-E2-A1L7-01	Primary	Negative	Negative	Negative	[Not Available]	2.166666667	40	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	60.32	1:Recurred/Progressed	53.19
+TCGA-E2-A1L8	TCGA-E2-A1L8-01	Primary	Positive	Positive	Equivocal	Negative	0.833333333	52	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	73.59	0:DiseaseFree	73.59
+TCGA-E2-A1LB	TCGA-E2-A1LB-01	Primary	Negative	Negative	Positive	[Not Available]	1.166666667	41	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	75.76	0:DiseaseFree	75.76
+TCGA-E2-A1LE	TCGA-E2-A1LE-01	Primary	Negative	Negative	Positive	[Not Available]	2.066666667	71	Infiltrating Ductal Carcinoma	Stage IIIC	1:DECEASED	28.88	1:Recurred/Progressed	11.86
+TCGA-E2-A1LG	TCGA-E2-A1LG-01	Primary	Negative	Negative	Equivocal	Negative	3.6	50	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	50.03	0:DiseaseFree	50.03
+TCGA-E2-A1LK	TCGA-E2-A1LK-01	Primary	Negative	Negative	Equivocal	Negative	1.1	84	Infiltrating Ductal Carcinoma	Stage IIIC	1:DECEASED	8.74	1:Recurred/Progressed	5.09
+TCGA-E2-A1LL	TCGA-E2-A1LL-01	Primary	Negative	Negative	Negative	[Not Available]	1	73	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	43	1:Recurred/Progressed	42.81
+TCGA-E2-A2P5	TCGA-E2-A2P5-01	Primary	Positive	Positive	[Not Available]	Negative	2.166666667	78	Infiltrating Lobular Carcinoma	Stage IIIC	1:DECEASED	26.97	1:Recurred/Progressed	19.61
+TCGA-E2-A3DX	TCGA-E2-A3DX-01	Primary	Positive	Positive	[Not Available]	Positive	0.4	43	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	43.53	0:DiseaseFree	43.53
+TCGA-E2-A56Z	TCGA-E2-A56Z-01	Primary	Positive	Positive	Equivocal	Negative	1.466666667	69	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	8.28	0:DiseaseFree	8.28
+TCGA-E2-A574	TCGA-E2-A574-01	Primary	Negative	Negative	Equivocal	Negative	2.7	44	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	38.73	0:DiseaseFree	38.73
+TCGA-E9-A1N3	TCGA-E9-A1N3-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.866666667	70	Mixed Histology (please specify)	Stage IIIA	0:LIVING	34.79	0:DiseaseFree	34.79
+TCGA-E9-A1N4	TCGA-E9-A1N4-01	Primary	Positive	Positive	Positive	[Not Available]	0.6	41	Mixed Histology (please specify)	Stage IIIA	0:LIVING	32.85	0:DiseaseFree	32.85
+TCGA-E9-A1N5	TCGA-E9-A1N5-01	Primary	Positive	Positive	Positive	[Not Available]	0.933333333	45	Mixed Histology (please specify)	Stage IIB	0:LIVING	36.79	0:DiseaseFree	36.79
+TCGA-E9-A1N8	TCGA-E9-A1N8-01	Primary	Negative	[Not Available]	Negative	[Not Available]	1.033333333	48	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	34.13	0:DiseaseFree	34.13
+TCGA-E9-A1N9	TCGA-E9-A1N9-01	Primary	Negative	Positive	Positive	[Not Available]	1.466666667	58	Mixed Histology (please specify)	Stage IIA	0:LIVING	36.17	0:DiseaseFree	36.17
+TCGA-E9-A1NA	TCGA-E9-A1NA-01	Primary	Positive	Positive	Positive	[Not Available]	2.8	58	Mixed Histology (please specify)	Stage IIA	0:LIVING	36.53	0:DiseaseFree	36.53
+TCGA-E9-A1ND	TCGA-E9-A1ND-01	Primary	Negative	Negative	Positive	[Not Available]	2.566666667	75	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	41.59	0:DiseaseFree	41.59
+TCGA-E9-A1NE	TCGA-E9-A1NE-01	Primary	Positive	Positive	Negative	[Not Available]	1.333333333	28	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	35.74	0:DiseaseFree	35.74
+TCGA-E9-A1NF	TCGA-E9-A1NF-01	Primary	Positive	Positive	Negative	[Not Available]	1.566666667	60	Mixed Histology (please specify)	Stage IIA	1:DECEASED	35.22	1:Recurred/Progressed	2.96
+TCGA-E9-A1NG	TCGA-E9-A1NG-01	Primary	Positive	Positive	Negative	[Not Available]	0.733333333	62	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	25.82	[Not Available]	[Not Available]
+TCGA-E9-A1NH	TCGA-E9-A1NH-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	71	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.92	0:DiseaseFree	18.92
+TCGA-E9-A1NI	TCGA-E9-A1NI-01	Primary	Positive	Positive	Negative	[Not Available]	4.033333333	51	Mixed Histology (please specify)	Stage IIA	0:LIVING	9.86	0:DiseaseFree	9.86
+TCGA-E9-A1QZ	TCGA-E9-A1QZ-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.433333333	61	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	24.8	0:DiseaseFree	24.8
+TCGA-E9-A1R0	TCGA-E9-A1R0-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.733333333	58	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	28.25	0:DiseaseFree	28.25
+TCGA-E9-A1R2	TCGA-E9-A1R2-01	Primary	Positive	Negative	Equivocal	Negative	1.7	51	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	34.92	0:DiseaseFree	34.92
+TCGA-E9-A1R3	TCGA-E9-A1R3-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.766666667	70	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	2.56	0:DiseaseFree	2.56
+TCGA-E9-A1R4	TCGA-E9-A1R4-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	3.433333333	66	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	6.11	0:DiseaseFree	6.11
+TCGA-E9-A1R5	TCGA-E9-A1R5-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.133333333	63	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	3.02	0:DiseaseFree	3.02
+TCGA-E9-A1R6	TCGA-E9-A1R6-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.933333333	63	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	11.14	0:DiseaseFree	11.14
+TCGA-E9-A1R7	TCGA-E9-A1R7-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.7	64	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	48.19	0:DiseaseFree	48.19
+TCGA-E9-A1RB	TCGA-E9-A1RB-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.733333333	40	Infiltrating Ductal Carcinoma	Stage IIA	1:DECEASED	32.06	[Not Available]	[Not Available]
+TCGA-E9-A1RC	TCGA-E9-A1RC-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.266666667	56	Mixed Histology (please specify)	Stage IIIC	0:LIVING	40.21	0:DiseaseFree	40.21
+TCGA-E9-A1RD	TCGA-E9-A1RD-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.633333333	67	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	1.12	0:DiseaseFree	1.12
+TCGA-E9-A1RE	TCGA-E9-A1RE-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.6	74	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	46.62	0:DiseaseFree	46.62
+TCGA-E9-A1RF	TCGA-E9-A1RF-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	4	68	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	6.57	0:DiseaseFree	6.57
+TCGA-E9-A1RH	TCGA-E9-A1RH-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2.566666667	63	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	46.55	0:DiseaseFree	46.55
+TCGA-E9-A1RI	TCGA-E9-A1RI-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.433333333	43	Mixed Histology (please specify)	Stage IIIA	0:LIVING	47.6	0:DiseaseFree	47.6
+TCGA-E9-A226	TCGA-E9-A226-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.933333333	45	Infiltrating Ductal Carcinoma	Stage IIIA	1:DECEASED	34.43	1:Recurred/Progressed	25.95
+TCGA-E9-A227	TCGA-E9-A227-01	Primary	Positive	Positive	Negative	[Not Available]	0.5	42	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	32.03	0:DiseaseFree	32.03
+TCGA-E9-A228	TCGA-E9-A228-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.266666667	58	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	42.21	0:DiseaseFree	42.21
+TCGA-E9-A229	TCGA-E9-A229-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.466666667	37	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	37.71	0:DiseaseFree	37.71
+TCGA-E9-A22A	TCGA-E9-A22A-01	Primary	Positive	Negative	Negative	[Not Available]	1.033333333	74	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	39.06	0:DiseaseFree	39.06
+TCGA-E9-A22B	TCGA-E9-A22B-01	Primary	Positive	Negative	Negative	[Not Available]	1.6	71	Mixed Histology (please specify)	Stage IA	0:LIVING	38.34	0:DiseaseFree	38.34
+TCGA-E9-A22D	TCGA-E9-A22D-01	Primary	Positive	Positive	Positive	[Not Available]	0.633333333	38	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	41	0:DiseaseFree	41
+TCGA-E9-A22E	TCGA-E9-A22E-01	Primary	Positive	Positive	Positive	[Not Available]	2.466666667	56	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	41.69	0:DiseaseFree	41.69
+TCGA-E9-A22G	TCGA-E9-A22G-01	Primary	Negative	Negative	Positive	[Not Available]	2.7	47	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	40.7	0:DiseaseFree	40.7
+TCGA-E9-A22H	TCGA-E9-A22H-01	Primary	Positive	Positive	Positive	[Not Available]	0.733333333	42	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	40.47	0:DiseaseFree	40.47
+TCGA-E9-A243	TCGA-E9-A243-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.9	52	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	20.11	1:Recurred/Progressed	10.02
+TCGA-E9-A244	TCGA-E9-A244-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2.4	54	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	0.69	0:DiseaseFree	0.69
+TCGA-E9-A245	TCGA-E9-A245-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.533333333	47	Infiltrating Ductal Carcinoma	Stage IIB	1:DECEASED	[Not Available]	[Not Available]	[Not Available]
+TCGA-E9-A247	TCGA-E9-A247-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.2	59	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	38.96	0:DiseaseFree	38.96
+TCGA-E9-A248	TCGA-E9-A248-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.7	51	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	1.94	0:DiseaseFree	1.94
+TCGA-E9-A249	TCGA-E9-A249-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.4	45	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	7.13	0:DiseaseFree	7.13
+TCGA-E9-A24A	TCGA-E9-A24A-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.833333333	69	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	24.54	0:DiseaseFree	24.54
+TCGA-E9-A295	TCGA-E9-A295-01	Primary	Positive	Positive	Positive	[Not Available]	2.2	71	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	12.32	0:DiseaseFree	12.32
+TCGA-E9-A2JS	TCGA-E9-A2JS-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.566666667	72	Infiltrating Lobular Carcinoma	Stage IIB	1:DECEASED	29.7	1:Recurred/Progressed	17.21
+TCGA-E9-A2JT	TCGA-E9-A2JT-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.533333333	63	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	9.46	0:DiseaseFree	9.46
+TCGA-E9-A3Q9	TCGA-E9-A3Q9-01	Primary	Positive	Positive	Indeterminate	[Not Available]	1.3	78	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	32.88	0:DiseaseFree	32.88
+TCGA-E9-A3QA	TCGA-E9-A3QA-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.833333333	33	Medullary Carcinoma	Stage IIA	0:LIVING	30.16	0:DiseaseFree	30.16
+TCGA-E9-A3X8	TCGA-E9-A3X8-01	Primary	Positive	Positive	Positive	[Not Available]	0.5	48	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	30.42	0:DiseaseFree	30.42
+TCGA-E9-A54X	TCGA-E9-A54X-01	Primary	Positive	Positive	Negative	[Not Available]	0.9	85	Mucinous Carcinoma	Stage IA	0:LIVING	23.88	0:DiseaseFree	23.88
+TCGA-E9-A5UO	TCGA-E9-A5UO-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1.033333333	41	Mucinous Carcinoma	Stage IIA	0:LIVING	25.79	0:DiseaseFree	25.79
+TCGA-E9-A5UP	TCGA-E9-A5UP-01	Primary	[Not Available]	[Not Available]	[Not Available]	[Not Available]	0.833333333	63	Other, specify	Stage IIA	0:LIVING	26.38	0:DiseaseFree	26.38
+TCGA-EW-A1IX	TCGA-EW-A1IX-01	Primary	Positive	Positive	Negative	[Not Available]	0.833333333	48	Other, specify	Stage IIA	0:LIVING	39.68	0:DiseaseFree	39.68
+TCGA-EW-A1J1	TCGA-EW-A1J1-01	Primary	Positive	Positive	Negative	[Not Available]	0.566666667	38	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.89	0:DiseaseFree	18.89
+TCGA-EW-A1J2	TCGA-EW-A1J2-01	Primary	Positive	Positive	Negative	[Not Available]	0.9	50	Infiltrating Lobular Carcinoma	[Discrepancy]	0:LIVING	13.24	0:DiseaseFree	13.24
+TCGA-EW-A1J3	TCGA-EW-A1J3-01	Primary	Positive	Positive	Positive	[Not Available]	0.866666667	61	Infiltrating Lobular Carcinoma	Stage IA	0:LIVING	16.56	0:DiseaseFree	16.56
+TCGA-EW-A1OV	TCGA-EW-A1OV-01	Primary	Negative	Negative	Negative	Negative	2.766666667	56	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	25.92	0:DiseaseFree	25.92
+TCGA-EW-A1OX	TCGA-EW-A1OX-01	Primary	Positive	Positive	Negative	[Not Available]	0.6	43	Mucinous Carcinoma	Stage IIA	0:LIVING	29.93	0:DiseaseFree	29.93
+TCGA-EW-A1OY	TCGA-EW-A1OY-01	Primary	Positive	Positive	Negative	Negative	1.9	63	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	29.83	0:DiseaseFree	29.83
+TCGA-EW-A1OZ	TCGA-EW-A1OZ-01	Primary	Positive	Negative	Equivocal	Positive	1.666666667	56	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	40.37	0:DiseaseFree	40.37
+TCGA-EW-A1P0	TCGA-EW-A1P0-01	Primary	Positive	Negative	Negative	[Not Available]	0.733333333	55	Other, specify	Stage IIB	0:LIVING	41.1	1:Recurred/Progressed	35.94
+TCGA-EW-A1P3	TCGA-EW-A1P3-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	48	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	52.92	0:DiseaseFree	52.92
+TCGA-EW-A1P4	TCGA-EW-A1P4-01	Primary	Negative	Negative	Negative	[Not Available]	1.933333333	43	Medullary Carcinoma	Stage IIA	0:LIVING	29.8	0:DiseaseFree	29.8
+TCGA-EW-A1P5	TCGA-EW-A1P5-01	Primary	Positive	Positive	Negative	Negative	0.5	77	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	23.09	0:DiseaseFree	23.09
+TCGA-EW-A1P8	TCGA-EW-A1P8-01	Primary	Negative	Negative	Negative	[Not Available]	1.066666667	58	Infiltrating Ductal Carcinoma	Stage IIIC	1:DECEASED	7.85	1:Recurred/Progressed	6.8
+TCGA-EW-A1PA	TCGA-EW-A1PA-01	Primary	Positive	Positive	Negative	[Not Available]	0.9	59	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	18.89	0:DiseaseFree	18.89
+TCGA-EW-A1PB	TCGA-EW-A1PB-01	Primary	Negative	Negative	Negative	[Not Available]	4.066666667	70	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	19.97	0:DiseaseFree	19.97
+TCGA-EW-A1PC	TCGA-EW-A1PC-01	Primary	Positive	Positive	Negative	[Not Available]	3.3	66	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	6.14	0:DiseaseFree	6.14
+TCGA-EW-A1PD	TCGA-EW-A1PD-01	Primary	Positive	Positive	Equivocal	Positive	2.066666667	61	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	13.93	0:DiseaseFree	13.93
+TCGA-EW-A1PE	TCGA-EW-A1PE-01	Primary	Positive	Positive	Negative	[Not Available]	0.933333333	56	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	10.51	0:DiseaseFree	10.51
+TCGA-EW-A1PG	TCGA-EW-A1PG-01	Primary	Positive	Positive	Equivocal	Negative	0.266666667	53	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	34.53	0:DiseaseFree	34.53
+TCGA-EW-A2FR	TCGA-EW-A2FR-01	Primary	Negative	Negative	Equivocal	Positive	1.466666667	59	Infiltrating Ductal Carcinoma	Stage IIIC	0:LIVING	54.96	0:DiseaseFree	54.96
+TCGA-EW-A2FS	TCGA-EW-A2FS-01	Primary	Positive	Negative	Negative	[Not Available]	0.933333333	41	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	52.69	0:DiseaseFree	52.69
+TCGA-EW-A2FV	TCGA-EW-A2FV-01	Primary	Positive	Positive	Negative	[Not Available]	0.666666667	39	Other, specify	Stage IIIC	0:LIVING	25.89	0:DiseaseFree	25.89
+TCGA-EW-A2FW	TCGA-EW-A2FW-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	52	Other, specify	Stage IIA	0:LIVING	22.08	0:DiseaseFree	22.08
+TCGA-EW-A3U0	TCGA-EW-A3U0-01	Primary	Negative	Negative	Negative	[Not Available]	3.766666667	61	Infiltrating Ductal Carcinoma	Stage IIIA	0:LIVING	17.48	0:DiseaseFree	17.48
+TCGA-EW-A423	TCGA-EW-A423-01	Primary	Positive	Positive	Negative	[Not Available]	1.433333333	75	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	17.51	0:DiseaseFree	17.51
+TCGA-GI-A2C8	TCGA-GI-A2C8-01	Primary	Positive	Positive	Negative	Negative	3.066666667	63	Infiltrating Ductal Carcinoma	Stage IIIB	0:LIVING	7.39	0:DiseaseFree	7.39
+TCGA-GI-A2C9	TCGA-GI-A2C9-01	Primary	Negative	Negative	Negative	[Not Available]	3.766666667	58	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	109.79	0:DiseaseFree	109.79
+TCGA-GM-A2D9	TCGA-GM-A2D9-01	Primary	Positive	Positive	[Not Available]	Negative	11.56666667	69	Infiltrating Ductal Carcinoma	Stage I	1:DECEASED	59.53	1:Recurred/Progressed	44.38
+TCGA-GM-A2DB	TCGA-GM-A2DB-01	Primary	Negative	Negative	Negative	Negative	3.433333333	62	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	79.04	0:DiseaseFree	79.04
+TCGA-GM-A2DC	TCGA-GM-A2DC-01	Primary	Positive	Positive	[Not Available]	Negative	0.566666667	57	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	83.28	0:DiseaseFree	83.28
+TCGA-GM-A2DD	TCGA-GM-A2DD-01	Primary	Negative	Negative	Equivocal	Negative	1.5	53	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	74.97	0:DiseaseFree	74.97
+TCGA-GM-A2DF	TCGA-GM-A2DF-01	Primary	Negative	Negative	Negative	Negative	0.933333333	53	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	70.8	0:DiseaseFree	70.8
+TCGA-GM-A2DH	TCGA-GM-A2DH-01	Primary	Negative	Negative	Negative	Negative	3.833333333	58	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	72.04	0:DiseaseFree	72.04
+TCGA-GM-A2DI	TCGA-GM-A2DI-01	Primary	Negative	Negative	[Not Available]	Negative	1.666666667	52	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	85.09	0:DiseaseFree	85.09
+TCGA-GM-A2DK	TCGA-GM-A2DK-01	Primary	Positive	Negative	Negative	[Not Available]	0.6	58	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	86.89	0:DiseaseFree	86.89
+TCGA-GM-A2DL	TCGA-GM-A2DL-01	Primary	Positive	Positive	Negative	[Not Available]	1.333333333	50	Infiltrating Ductal Carcinoma	Stage I	0:LIVING	115.6	0:DiseaseFree	115.6
+TCGA-GM-A2DM	TCGA-GM-A2DM-01	Primary	Positive	Positive	Negative	[Not Available]	0.633333333	57	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	105.98	0:DiseaseFree	105.98
+TCGA-GM-A2DN	TCGA-GM-A2DN-01	Primary	Positive	Positive	Negative	[Not Available]	0.7	58	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	101.54	0:DiseaseFree	101.54
+TCGA-GM-A2DO	TCGA-GM-A2DO-01	Primary	Positive	Positive	Negative	[Not Available]	3.3	54	Infiltrating Lobular Carcinoma	Stage I	0:LIVING	85.28	0:DiseaseFree	85.28
+TCGA-GM-A3NY	TCGA-GM-A3NY-01	Primary	Positive	Positive	Negative	[Not Available]	1.8	72	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	38.17	0:DiseaseFree	38.17
+TCGA-GM-A3XG	TCGA-GM-A3XG-01	Primary	Positive	Positive	Negative	Negative	0.166666667	46	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	43.69	0:DiseaseFree	43.69
+TCGA-GM-A3XL	TCGA-GM-A3XL-01	Primary	Negative	Negative	[Not Available]	Negative	2.566666667	49	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	69.25	0:DiseaseFree	69.25
+TCGA-GM-A3XN	TCGA-GM-A3XN-01	Primary	Positive	Positive	Negative	Negative	0.533333333	44	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	66.33	0:DiseaseFree	66.33
+TCGA-GM-A4E0	TCGA-GM-A4E0-01	Primary	Positive	Positive	[Not Available]	Negative	0.533333333	67	Infiltrating Lobular Carcinoma	Stage IIIC	0:LIVING	71.98	0:DiseaseFree	71.98
+TCGA-HN-A2NL	TCGA-HN-A2NL-01	Primary	Negative	Negative	Negative	[Not Available]	2.133333333	56	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	2.6	0:DiseaseFree	2.6
+TCGA-JL-A3YW	TCGA-JL-A3YW-01	Primary	Positive	Positive	Positive	[Not Available]	2.533333333	49	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	11.83	0:DiseaseFree	11.83
+TCGA-JL-A3YX	TCGA-JL-A3YX-01	Primary	Positive	Positive	Positive	[Not Available]	1	46	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	11.56	0:DiseaseFree	11.56
+TCGA-LL-A440	TCGA-LL-A440-01	Primary	Positive	Positive	Equivocal	Negative	0.266666667	61	Infiltrating Lobular Carcinoma	Stage IA	0:LIVING	24.93	0:DiseaseFree	24.93
+TCGA-LL-A441	TCGA-LL-A441-01	Primary	Negative	Negative	Negative	[Not Available]	1.966666667	62	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	32.72	0:DiseaseFree	32.72
+TCGA-LL-A50Y	TCGA-LL-A50Y-01	Primary	Positive	Positive	Equivocal	Negative	0.966666667	84	Infiltrating Lobular Carcinoma	Stage IIA	0:LIVING	25.03	0:DiseaseFree	25.03
+TCGA-LL-A5YL	TCGA-LL-A5YL-01	Primary	Positive	Negative	Positive	Negative	1.933333333	64	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	17.05	0:DiseaseFree	17.05
+TCGA-LL-A5YM	TCGA-LL-A5YM-01	Primary	Positive	Positive	Equivocal	Positive	0.766666667	88	Infiltrating Ductal Carcinoma	Stage IIIB	0:LIVING	15.31	1:Recurred/Progressed	8.48
+TCGA-LL-A5YN	TCGA-LL-A5YN-01	Primary	Positive	Positive	Equivocal	Positive	0.866666667	46	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	14.68	0:DiseaseFree	14.68
+TCGA-LL-A5YO	TCGA-LL-A5YO-01	Primary	Negative	Negative	Negative	[Not Available]	1.5	50	Infiltrating Ductal Carcinoma	Stage IA	0:LIVING	14.45	0:DiseaseFree	14.45
+TCGA-LL-A5YP	TCGA-LL-A5YP-01	Primary	Positive	Negative	Negative	Positive	2.133333333	49	Infiltrating Ductal Carcinoma	Stage IIB	0:LIVING	14.78	0:DiseaseFree	14.78
+TCGA-LQ-A4E4	TCGA-LQ-A4E4-01	Primary	Positive	Positive	[Not Available]	Negative	2.3	73	Infiltrating Lobular Carcinoma	Stage IIIA	0:LIVING	27.89	1:Recurred/Progressed	22.37
+TCGA-MS-A51U	TCGA-MS-A51U-01	Primary	Positive	Positive	Negative	Negative	0.433333333	44	Infiltrating Lobular Carcinoma	Stage IIB	0:LIVING	22.37	0:DiseaseFree	22.37
+TCGA-OL-A66I	TCGA-OL-A66I-01	Primary	Negative	Negative	[Not Available]	Negative	0.966666667	36	Infiltrating Ductal Carcinoma	Stage IIA	0:LIVING	23.46	0:DiseaseFree	23.46
+TCGA-OL-A66J	TCGA-OL-A66J-01	Primary	Positive	Positive	[Not Available]	Negative	1.733333333	80	Infiltrating Lobular Carcinoma	Stage I	0:LIVING	65.57	0:DiseaseFree	65.57
+TCGA-OL-A66K	TCGA-OL-A66K-01	Primary	Positive	Positive	Equivocal	Negative	0.833333333	72	Infiltrating Lobular Carcinoma	Stage IIA	1:DECEASED	41.89	[Not Available]	[Not Available]

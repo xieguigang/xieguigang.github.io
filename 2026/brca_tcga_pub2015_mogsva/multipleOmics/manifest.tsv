@@ -1,0 +1,5 @@
+layer	file	features	samples	transform	direction	normalization	note
+mrna	mrna.txt	20431	460	log2(RSEM+1)	1	Log2 then ZScore	linear RSEM is log2 transformed
+met	met.txt	16111	460	beta (HM450)	-1	RobustZScore	beta value in [0,1]; use Direction=-1 in moGSVA
+protein	protein.txt	181	460	RPPA (centered)	1	None	antibody id collapsed to gene; duplicated genes averaged
+cna	cna.txt	22232	460	log2 copy number	1	RankPerFeature	use a rank based score method for this layer
